@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/riteyee/ip/master/cdn.csv
+https://raw.githubusercontent.com/riteyee/ip/master/cdn.csv@13.107.43.12
